@@ -49,7 +49,7 @@ We are planning our first meeting for the **first week of November 2021**.
 
 ### <span style="color: white; background-color: #369574;">How do I join?</span>
 
-- You can start by joining our [mailing list](https://lists.bath.ac.uk/sympa/info/oh-research) and introducing yourself,
+- You can start by joining our [mailing list](https://lists.bath.ac.uk/sympa/subscribe/oh-research) and introducing yourself,
 - You can say hi in our [gather.town room](https://gather.town/invite?token=bBOuxI3YV4jalgIP4gbrDlz6FNrv_AGO) if anyone is online,
-- You can check a recopilation of literature in the [open hardware group in Zotero](https://www.zotero.org/groups/2312397/open_hardware),
+- You can check a collection of open hardware related articles in the [open hardware group in Zotero](https://www.zotero.org/groups/2312397/open_hardware),
 - If you have any questions, you can drop me an email at ja2153@bath.ac.uk
