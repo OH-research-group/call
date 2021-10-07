@@ -45,7 +45,7 @@ This is another question to explore collaboratively, based on ongoing work of me
 </details>
 
 
-#### Where and when?  
+### Where and when?  
 
 Initially we will meet **only virtually**, both due to ongoing travel restrictions and because virtual meetings allow participants to easily join from different parts of the world. The meetings will be run in English, and the GOSH code of conduct will apply.  
 
@@ -53,7 +53,7 @@ The proposed frequency is to have **a monthly meeting**, though this is open to 
 
 We are planning our first meeting for the first week of November 2021.
 
-#### How do I join?
+### How do I join?
 
 - You can start by joining our [mailing list](https://lists.bath.ac.uk/sympa/info/oh-research) and introducing yourself,
 - You can say hi in our [gather.town room](https://gather.town/invite?token=bBOuxI3YV4jalgIP4gbrDlz6FNrv_AGO) if anyone is online,
