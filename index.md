@@ -1,4 +1,3 @@
-## Open hardware meta-research community 
 ### A place for researchers studying non-tech aspects of open hardware
  
 <details>
