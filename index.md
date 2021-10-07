@@ -1,7 +1,7 @@
 #### <span style="color: grey">A place for researchers studying non-tech aspects of open hardware</span>
 
 
-### <span style="color: #369574">The basics</span>
+### <span style="color: white; background-color: #369574;">The basics</span>
 
 <b>*What is open hardware and why it is important to know more about it?*</b>
 
@@ -39,7 +39,7 @@ This is another question to explore collaboratively, based on ongoing work of me
 - any other one we come up with.
 
 
-### <span style="color: #369574">Where and when?</span>
+### <span style="color: white; background-color: #369574;">Where and when?</span>
 
 Initially we will meet **virtually**, both due to ongoing travel restrictions and because virtual meetings allow participants to easily join from different parts of the world. The proposed frequency is to have **a monthly meeting**, though this is open to discussion with members of the community. 
 
@@ -47,7 +47,7 @@ Sessions will be hosted & facilitated by [Julieta Arancio](https://drexel.edu/co
 
 We are planning our first meeting for the **first week of November 2021**.
 
-### <span style="color: #369574">How do I join?</span>
+### <span style="color: white; background-color: #369574;">How do I join?</span>
 
 - You can start by joining our [mailing list](https://lists.bath.ac.uk/sympa/info/oh-research) and introducing yourself,
 - You can say hi in our [gather.town room](https://gather.town/invite?token=bBOuxI3YV4jalgIP4gbrDlz6FNrv_AGO) if anyone is online,
