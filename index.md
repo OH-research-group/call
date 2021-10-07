@@ -1,7 +1,7 @@
-#### A place for researchers studying non-tech aspects of open hardware
+#### <span style="color: grey">A place for researchers studying non-tech aspects of open hardware</span>
 
 
-### <span style="color: purple">The basics</span>
+### <span style="color: #369574">The basics</span>
 
 <b>*What is open hardware and why it is important to know more about it?*</b>
 
@@ -11,6 +11,7 @@ Some of the areas explored by early work comprise the study of collaboration dyn
 
 Studies on the “meta” of open hardware can be found in the crossroads of multiple disciplines: design science, human-computer interaction (HCI), open innovation, pedagogical research, science and technology studies (STS). Research is done in academic settings but also carried out by non-profits; the diversity of approaches, however, has not yet accumulated into a coherent body of knowledge. 
 <br>
+
 <b>*Why a research community on open hardware?*</b>
 
 Sustaining an open, collaborative community of researchers on the topic would provide a much-needed forum for discussing the foundational aspects of open hardware as a field of study. Discussions amongst researchers would shed light over common and divergent framings and methods in the field, while facilitating learning from each other's experience. 
@@ -38,7 +39,7 @@ This is another question to explore collaboratively, based on ongoing work of me
 - any other one we come up with.
 
 
-### Where and when?  
+### <span style="color: #369574">Where and when?</span>
 
 Initially we will meet **virtually**, both due to ongoing travel restrictions and because virtual meetings allow participants to easily join from different parts of the world. The proposed frequency is to have **a monthly meeting**, though this is open to discussion with members of the community. 
 
@@ -46,7 +47,7 @@ Sessions will be hosted & facilitated by [Julieta Arancio](https://drexel.edu/co
 
 We are planning our first meeting for the **first week of November 2021**.
 
-### How do I join?
+### <span style="color: #369574">How do I join?</span>
 
 - You can start by joining our [mailing list](https://lists.bath.ac.uk/sympa/info/oh-research) and introducing yourself,
 - You can say hi in our [gather.town room](https://gather.town/invite?token=bBOuxI3YV4jalgIP4gbrDlz6FNrv_AGO) if anyone is online,
