@@ -54,11 +54,11 @@ This is another question to explore collaboratively, based on ongoing work of me
 
 ### Where and when?  
 
-Initially we will meet **only virtually**, both due to ongoing travel restrictions and because virtual meetings allow participants to easily join from different parts of the world. The meetings will be run in English, and the [GOSH code of conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) will apply.  
+Initially we will meet **only virtually**, both due to ongoing travel restrictions and because virtual meetings allow participants to easily join from different parts of the world. The proposed frequency is to have **a monthly meeting**, though this is open to discussion with members of the community. 
 
-The proposed frequency is to have **a monthly meeting**, though this is open to discussion with members of the community. Sessions will be hosted & facilitated by [Julieta Arancio](https://drexel.edu/coas/faculty-research/faculty-directory/postdocs/arancio-julieta/), postdoctoral researcher at Drexel University; the session notes will be shared openly in this website.
+Sessions will be hosted & facilitated by [Julieta Arancio](https://drexel.edu/coas/faculty-research/faculty-directory/postdocs/arancio-julieta/), postdoctoral researcher at Drexel University; the session notes will be shared openly in this website. The meetings will be run in English, and the [GOSH code of conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/) will apply.  
 
-We are planning our first meeting for the first week of November 2021.
+We are planning our first meeting for the **first week of November 2021**.
 
 ### How do I join?
 
