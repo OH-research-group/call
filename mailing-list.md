@@ -6,12 +6,12 @@ The mailing list homepage is [https://lists.bath.ac.uk/sympa/info/oh-research](h
 
 That's an important link, as from the homepage you can subscribe, unsubscribe and change your mailing preferences.
 
-1. [How to subscribe to the list](#How-to-subscribe-to-the-list)
-2. [How to send a message to the list](#How-to-send-a-message-to-the-list)
-3. [Replying to a message someone sent to the list](#Replying-to-a-message-someone-sent-to-the-list)
-4. [Checking the messages archive](#Checking-the-messages-archive)
-5. [How to modify your user preferences](#How-to-modify-your-user-preferences)
-6. [How to unsubscribe from the list](#How-to-unsubscribe-from-the-list)
+1. [How to subscribe to the list](https://oh-research-group.github.io/call/mailing-list.html#how-to-subscribe-to-the-list)
+2. [How to send a message to the list](https://oh-research-group.github.io/call/mailing-list.html#how-to-subscribe-to-the-list)
+3. [Replying to a message someone sent to the list](https://oh-research-group.github.io/call/mailing-list.html#replying-to-a-message-someone-sent-to-the-list)
+4. [Checking the messages archive](https://oh-research-group.github.io/call/mailing-list.html#checking-the-messages-archive)
+5. [How to modify your user preferences](https://oh-research-group.github.io/call/mailing-list.html#how-to-modify-your-user-preferences)
+6. [How to unsubscribe from the list](https://oh-research-group.github.io/call/mailing-list.html#how-to-unsubscribe-from-the-list)
 
 ## How to subscribe to the list
 
