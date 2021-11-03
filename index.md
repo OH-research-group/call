@@ -1,6 +1,6 @@
 #### <span style="color: grey">A place for researchers studying non-tech aspects of open hardware</span>
 
-> Keep in touch! [Subscribe to the mailing list](lists.bath.ac.uk/sympa/info/oh-research) & check the [How-to mailing list guide](mailing-list.md).
+> Keep in touch! [Subscribe to the mailing list](https://lists.bath.ac.uk/sympa/info/oh-research) & check the [How-to mailing list guide](mailing-list.md).
 
 ### <span style="color: white; background-color: #369574;">The basics</span>
 
