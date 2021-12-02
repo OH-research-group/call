@@ -1,6 +1,6 @@
  <img src="imgs/image.png" width="50%">
  
-#### <span style="color: grey">An open, collaborative community of researchers on the socioeconomic aspects of open hardware practice.</span>
+#### <span style="color: grey">An open, collaborative community of researchers studying the socioeconomic aspects of open hardware practice.</span>
 
 ### <span style="color: white; background-color: #369574;">Where and when?</span>
 
