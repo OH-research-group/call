@@ -1,4 +1,7 @@
 # Open hardware researchers group
+
+[![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
+
 ## 1st Meeting - 9 Dec 2021 
 
 ### Access details
