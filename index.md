@@ -17,5 +17,5 @@ Our first meeting was held on Dec. 2, 2021. You can find all meeting notes in [t
 ### <span style="color: white; background-color: #369574;">How do I join?</span>
 
 - Join our [mailing list](https://lists.bath.ac.uk/sympa/subscribe/oh-research) and introduce yourself (if you're new to mailing lists check our [how-to-mailing-list guide](mailing-list.md))
-- If you have any questions or you prefer to join one of the meetings directly, you can drop me an email at ja2153@bath.ac.uk and I'll add you
+- If you have any questions or you prefer to join one of the meetings directly, you can drop me (Julieta) an email at <a href="mailto:ja2153@bath.ac.uk">ja2153@bath.ac.uk</a> and I'll add you
 - Say hi in our [work.adventure room](https://play.workadventu.re/@/open-hardware-research-group/open-hardware-research-group/open-hardware-research-group) if anyone is online
