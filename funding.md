@@ -1,4 +1,4 @@
-## Funding opportunities for open hardware researchers
+## Funding opportunities 
 
 <details>
   <summary><b>Code for Science and Society - 2022 Event Fund (Deadline January 18, 2022)</b></summary>
@@ -9,6 +9,6 @@ Applications should demonstrate the educational and scientific purposes of the p
 
 Applications from all parts of the globe are encouraged, as well as proposals for events held in non-English languages. Applicants are encouraged to make use of resources that provide information on and support for best practices in conference planning and to review guidance on a strong application and frequently asked questions about the application process.<br><br>
     
-More information: <a href="https://blog.codeforscience.org/launching-the-2022-event-fund-request-for-proposals/">(https://blog.codeforscience.org/launching-the-2022-event-fund-request-for-proposals/</a>
+More information: <a href="https://blog.codeforscience.org/launching-the-2022-event-fund-request-for-proposals/">https://blog.codeforscience.org/launching-the-2022-event-fund-request-for-proposals/</a>
 
 </details>
