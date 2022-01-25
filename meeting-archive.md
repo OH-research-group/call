@@ -1,5 +1,119 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
 
+## 2nd Meeting - 13 Jan 2022
+### Access details
+- Date: Jan 13, 2022
+- Time: 4pm UTC
+- Link to join: [https://bath-ac-uk.zoom.us/j/97973283694?pwd=Qnk4Ky9LWHNxMEQveHVsZk9JZy96UT09](https://bath-ac-uk.zoom.us/j/97973283694?pwd=Qnk4Ky9LWHNxMEQveHVsZk9JZy96UT09)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+#### Access
+- Moritz: Issue: I cannot seem to join the meeting url listed in the calender invite (which is different from the one listed above, which shows "invalid meeting id") without creating a Zoom account, it says "for authorized users only". Is this intended?
+- response by Rafaella: University of Bath requires you to sign into Zoom in order to enter the meeting :/
+- Moritz: ok thanks.
+- Pen: I think we should use another solution that does not require an attendee to sign up for a closed source proprietary service engaged in mass surveillance.
+- Moritz: At FU Berlin we're using Jitsi Meet.
+- +1
+
+### Participants
+
+* Louise Bezuidenhout
+* Rafaella Antoniou
+* Haris Shekeris
+* [Fabio Balli](https://www.fabioballi.net)
+* Pen-Yuan Hsing
+* Emilio Velis
+* Jeremy Wright
+* Moritz Maxeiner
+* Tarunima
+* Morgan
+* Joshua Pearce
+
+
+### Meeting agenda
+
+#### 1.  Interest in applying to funding: but for which activities?
+- Rafaella: Spoke with Robert Mies from Open Next, already run a conference on “Open source hardware and open source product development”.  Oriented towards building a collection for a Design Science journal. Idea to keep this happening, find funding e.g. from University of Bath, Open NEXT, GOSH funding that is general not only science
+- Pen: GOSH regional funding, there will be another opening soon, regional events to advance open science hardware in a tangible way. Coming from a Sloan Foundation grant. In person or virtual, 3 tiers of funding. + info 
+https://forum.openhardware.science/t/apply-here-for-goshs-2022-regional-events-funding-round-1/3290?u=hpy
+
+- Julieta: I think it would be good to take these group discussions offline, but still need some deeper conversations to happen. Also +1 to sustaining openNEXT. 
+- Joshua: APC waivers for HardwareX, tech or not, open hw related. Elsevier is pushing really hard to increase the IF. Also in Design journal, editor shift. Possible to waive APCs there too.
+- Moritz Maxeiner: interesting to hear, have hw but not published
+- Joshua: HardwareX only science, Design more general
+
+
+#### 2. What do you think is the most relevant/urgent research question in open hardware research today?
+
+- Moritz: figuring out how to get documentation out there that allows people to define this is good or bad open hardware, in different scales but that main idea. Because if you look at open HW projects, unless you are an expert you cant tell if this is something to invest your time in or not replicating. Validation of the quality of the work
+- Emilio: I think this falls into reproducibility, how to ensure any docs can do proper knowledge transfer. For hw, ensuring that is a piece of hw that works
+- Julieta: how we can contextualize open hw, how to capture the context differences in open hw implementation. 
+- Fab: the question of infrastructures specially in public research institutions, little research on that despite UNESCO recommendation. Beyond tool but whole infra, legal paradigms to change
+- Louise: +1 Fab, supply chains and institutional infra is interesting in open hw because it highlights the future marginalization of communities that do not have access to that infra. 
+- Haris: how much open hw for a democratic society. Democracy of science within society. Should there be anything non-proprietary? 
+- Moritz: to Haris, when you say democratic society, does that mean in science or beyond? 
+- Haris: I think it broadest, science in society. How much of hw should be open in a society that is more democratic? Even open science is sometimes looked down upon by scientists that dismiss it like outreach, I mean more aggressive. Science as a discipline is turning towards AI, proprietary. How can OH change that , but I’m from a different field
+- Moritz: as a research question how do you falsify that and turn it into something you can answer?
+- Haris: case studies would be useful, this is policy oriented action research. UNESCO recommendation is interesting to look at, not data gathering at that. More theoretical, I come from philosophy. I don’t do experimental data
+- Julieta: +1, I do that with an ethnographic approach. Interested in how OH enables new questions.
+- Set up a repository of these groups papers
+    - Zenodo community for the group
+- Louise: I specialize in the African region, looking at not only the physical but digital infras can hamper enthusiasm in OH, is a problem I face a lot in my work. I think the OH community can benefit from problematizing further, these unequal innovation situations and what that may undermine collabs from other parts of the world, it hampers openness we take for granted 
+- Fab: the UNESCO recommendation is still very top down, can we think of a reply to this but bottom up. That is missing and we can use as a political aspect. 
+- Moritz: regarding digital infra, how to ensure ouro hw remains buildable. Our supply chains are very focused, if they get disrupted and we have a global shortage it can become worse. How feasible would it be to set up production of silicon chips for open hardware, should the supply chains be interrupted, so you can turn to this. I don’t have an example, I can only think of the EU is trying to diversify its production cpaabilities for chips specifically 
+    -  Louise: +1 Moritz - this would not only be useful for interrupted supply chains in HICs, but also for OH enthusiasts working in LMICs because this is a regular challenge
+    -  Joshua: +1 Moritz -- I think you laid out a call for a massive multi uni grant - to make an OS toolchain to fab chips. I have worked in semiconductors - and a lot of it is open - but putting everything together to make even the chip for an Arduino would be non trivial
+    - Louise: I think that it is interesting that the OH community is so vulnerable to the vagaries of trade agreements, political changes and economics (ie. through supply chains) in ways that the other OS communities do not have to deal with. I don’t think that this comes out sufficiently in discussions on OH, and also gets lost when OH gets absorbed into more general OS discussions (or assumed that OH is just the natural output of the different OS communities)
+    - Fab: +1 Louise, + all regulatory limitations, especially when it goes to medical stuff
+    - Louise: Absolutely! Perhaps a question to ask is what is “open” when the communities have to deal with these elements that have no involvement in open discussions (and probably no interest)
+
+- Julieta: someone from OFE, a think tank connecting open source with the EU commission, says this is the most important topic now
+- Moritz: to prevent next chip shortage there should be an alternative
+- Haris: open science Is interesting, but often the jargon and theory is inaccessible to lay people. With open hardware, if you give hardware to the grassroots level there must be interesting bodies of knowledge that may emerge. This may level the field differently, empower production of interestingly different and unpredictable community knowledge, breaking monopoly of knowledge production. Different from open science. 
+- Julieta: open hardware is a very big label for a heterogeneous set of communities, from processors, to communities to etc. Unpacking those is important to understand these claims of democratization. Which are the models for participation in open hardware, and what for? 
+- Joshua: I recently changed countries and I noticed massive difference in abilities to do same work. You have to distribute manufacture everything, if you rely on import duty that may make your hw not viable. Interested in core economics of open hardware, how it makes things less expensive. Message that may be appealing to the funders and bigger community. Also any policy that will accelerate things forward, where we can protect the commons.
+- Julieta: how openness hardware plays in competitive advantages of countries, the geopolitics of it
+    - Louise: I’ve done work on the impact of financial sanctions on access to open resources
+    - Fab: In France they are initiatives to gather crowd-produced material and validate, maybe listing such initiatives could be good
+- Joshua: using open hardware as a weapon. E.g., EU and Russia, open sourcing energy efficiency. Reduce reliance on energy inputs. 
+- Julieta: national security, how policy may be not positive towards open hw because of national security. Last, about open hardware and distributed production are usually associated in narrative but not for everyone and not in practice
+- Moritz: openNEXT recently had lots of people presenting stories, including someone at an open hw company. His argument was 1) we don’t have to deal with repair our customers’ products. 2) we don’t hire lawyers and get patents to protect our stuff, because we don’t care. 3) time as a competitive advantage, you can go earlier to market without fear of protecting
+- Louise: about the geopolitical, I’ve done work related to that and I’m very interested in seeing how that progresses
+- Haris: very interested to work on the stuff we talked about today
+- Tarunima: source of reluctance in the global south to make their hw open
+- Rafaella: for me it’s different because I’m interested in the practice. I would have found useful it existed, is about how to judge the openness of a project. Even if there is a definition, it is still not perfect, there are no those variables to assess. Interested on studying that. How open a project is, interested in that
+- Fab: we are preparing a festival in May in Geneva but can also replicate elsewhere, to bring communities together working in health and the commons
+- Julieta: is open hardware creating jobs? Can it? Especially in the global south and related to repair? Can we measure that impact?
+    - Moritz: definitely but not know how to measure
+    - Louise: There is new legislation in the UK that requires commercial appliance producers to keep producing parts to allow older equipment to be repaired. Perhaps it is a good time to start discussing these issues wrt OH as well
+    - Morgan: at the EU level, there is now also a similar legislation
+    - Moritz: I've been privately following the RoR campaign since Louis Rossman started talking about it: https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w
+    - Louise:  I think wrt the OpenFlexure microscope and job creation it is interesting the amount of effort that they have had to put into certification etc. I think that for small organisations - particularly in LMICs - that do not have funding and legal support, this is a real challenge and limiting factor to job creation
+    - Julieta: absolutely, Louise
+- Tarunima: I wonder how this ties with models of entrepreneurship in countries with weak IP. Adds label but idk if that ties with core value
+- Joshua: the model is lateral scaling, one documents or innovates, the rest get the benefits without additional effort. Regarding job creation, opportunities In writing case studies for business education schools based on open hardware companies. Enough companies now through oshwa to study economic impact of open hardware.
+- Tarunima: that is interesting. Because 'digital public goods' is becoming more important in diplomacy. Also on the economics of open hardware- openness is property rights defined as right to share (as opposed to right to exclude). i think that is a starting point so if anyone wants to do a thought experiment to build on it.
+- Pen: I think one thread that connects everything is power dynamics in open hardware and how it alters the general politics of intellectual property, protection/not protection
+    - Julieta: the politics of open hardware?
+    - Moritz: in software what has worked was “protect the people” they are the ones to be protected. 
+    - Fab: Open-source does not mean the capacity for communities to take ownership… 😛 otherwise GAFAM would not succeed…
+
+#### Shared links
+- [Festival on health commons and 'taking care together'](https://houseofcommons.ch/wiki/index.php?title=GHF_Open_Village_2022) in May: possible cooperation? 
+- [UNESCO open science recommendation](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
+- [https://open-design.sciencesconf.org/](https://open-design.sciencesconf.org/)
+- [Rafaella: Link to opennext project](
+www.opennext.eu)
+- [Rafaella: IDENTIFYING THE FACTORS AFFECTING THE REPLICABILITY OF OPEN SOURCE HARDWARE DESIGNS](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/identifying-the-factors-affecting-the-replicability-of-open-source-hardware-designs/02509F521214AFF0124B005C348875C7)
+
+
+### Action items
+- Set up somewhere to drop and share our papers with the group
+- Draft an agenda from this discussion so we can collaborate on these topics in smaller interest-driven groups
+
+***
+
 ## 1st Meeting - 9 Dec 2021 
 
 ### Access details
