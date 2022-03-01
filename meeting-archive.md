@@ -1,5 +1,84 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
 
+## 3rd Meeting - 10 Feb 2022
+### Access details
+- Date: Feb 10, 2022
+- Time: 4pm UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+
+### Participants
+- Joshua Pearce
+- Mayra Morales
+- Veronica Uribe
+- Julieta Arancio
+- Haris
+- Moritz
+- Jeremy
+
+
+### Meeting agenda
+#### 1. Group news
+- We can upload our writing/work in this new [Zenodo community](https://zenodo.org/communities/ohresearch/?page=1&size=20)
+    - Mayra: better to have a closed space to share stuff until 
+- Julieta proposed an open panel at [4S-ESOCITE 2022 Mexico](https://www.4sonline.org/meeting/call-for-open-panels-2022/)
+    - Veronica: presented during the last 4S
+- Moritz: next GOSH gathering 2022 in october, he's part of the working group. 
+    - https://forum.openhardware.science/t/apply-here-for-gosh-s-2022-collaborative-development-program-round-1/3380/3
+>The total funding for the program is $110,000 USD.
+>
+>Seventy percent (70%) of the total, or $77,000 USD, will be allocated to the Established Project Track, and 30% of the total, or $33,000 USD, will be allocated to the New Project Track.
+>
+>Established Project Track funding breakdown:
+>
+>    Phase 1: Up to $4,600 USD per project, for a total of up to five projects (up to $23,000 USD awarded in total). Up to three projects from Phase 1 will be approved for Phase 2 funding based on progress evidenced by submission of an interim report.
+>    Phase 2: Up to $18,000 USD per project, for a total of up to three projects (up to $54,000 USD awarded in total).
+>
+>New Project Track funding breakdown:
+>
+>    Phase 1: Up to $2,000 USD per project, for a total of up to five projects (up to $10,000 USD awarded in total). Up to three projects from Phase 1 will be approved for Phase 2 funding based on progress evidenced by submission of an interim report.
+>    Phase 2: Up to $7,600 USD per project, for a total of up to three projects (up to $23,000 USD awarded in total).
+
+- Haris: What is GOSH? How open it is to participation from non-academics
+- Julieta: yes, the [gosh manifesto](https://openhardware.science/gosh-manifesto/) is a good reference, sometimes people in academia think GOSH is "too radical"
+- Joshua: I guess I would represent the more established wave of gosh, and there's definitely some more radical areas. I mean, I don't have trouble going to my idea about any of this stuff, but I'm coming at it from that line of science, faster, like all the good stuff, not the more critical nature 
+
+#### 2. Review the list of topics that came up during the last meeting
+
+![wordcloud](https://raw.githubusercontent.com/OH-research-group/oh-research-group.github.io/gh-pages/imgs/Word%20Art.jpeg)
+
+- Haris: There is a question I want to throw in, what becomes of expertise? If we all put up the field, does expertise need black boxes so that the experts, the experts have, you know, uh, added weight and what opinion they give?
+- Julieta: I think the politics of expertise is a huge topic. And especially now, with anti-vaxxer people and everything that's happening is like more relevant than ever. Um, biohacking was also a big, big topic for the politics of expertise and there are many biohackers within gosh.
+- Moritz: we did have a few centuries in Europe where we constantly, we focused all the knowledge, uh, on a small group of religious. And so part of the reason why we got out of that is because we started opening things up to more people as well. That was one of the primary reasons for follow the social movement forward scientific move movement, generally progress. So, um, opening things up for more people. Is in my personal opinion, the way to go.However, um, that doesn't mean that the quality can be dropped. I mean, technically you, one person can reach the same level of expertise by watching the YouTube videos. In my personal opinion, likely going to take longer. 
+- Julieta: I tend towards more, uh, trying to build bridges between academia and community scientists to try to bring them out of the, of the tower.  
+- Joshua: I agree. I don't think it has to be so combative. I think most scientists will think that well, I agree with it, send it through the same validation process. Everything else goes through. Um, but my experience, at least in working with students is that it is very, very hard to establish, um, the way create new knowledge, like to do that properly. And you could get it from you do videos, but it usually it takes five years, past undergrad for people that are pretty smart already. Um, and then even then not very, so it's a long, long process. I think we're all still getting better at it.   
+- Julieta: Maybe it's interesting, like physically, like thinking of the structures and infrastructures that facilitate that, that collaboration
+- Veronica: my research is on infrastructure for hardware in Mexico and Mexico is mostly, uh, has a lot of interests for, uh, offshore labor. Like it's another kind of technology production and mass production. So I see the clash of these two kinds of. Uh, forms of production, like very small IOT businesses that only make sense if all the hardware exist, really, they cannot afford these kinds of libraries or these kinds of like a feeling where if it wasn't for all the hardware, but not necessarily have. I feel like I am in another discussion that also connects with expertise, but I'm trying to research how open hardware is not fully up and all the time and how, how these entanglements of proprietary and oven kind of like, uh, produce other kinds of infrastructure, but also build it happened because all the hardware is built on previous infrastructure that is not fully open and available.
+- Moritz: replying to that, there has to be some level of "I just need to provide what I need from this component" without opening each component itself. Maybe the lines between open and proprietary are extremely expensive. It's really hard to differentiate sometimes. 
+- Julieta: The notion of standard components that the CERN open hw license included recently, I think goes this way
+- Moritz: yes, my view on this is more or less in line with that. 
+- Veronica: my dissertation is about that. So I engage with a lot of, uh, components, uh, component, like component sellers. These components through, uh, from China, from the United States, Mexico, but also with the regulation that only makes it possible to import these components. So that is kind of like where my research kind of like goes in this, in these politics of what gets, uh, into Mexico and what doesn't and how they deal with.
+    - Joshua: I now find it unbelievably challenging to replicate things that I had no trouble doing last year, just because I moved to Canada and we still have Amazon, but it's different, it's making everything different. 
+- Mayra: We all see things from a different perspective. For me, all I see is how with this, um, take minerals and chips, shortage, maybe while heading towards a new innovation paradigm, right? Where all the hardware might be, where will all companies are going to be working open.
+
+#### 3. Discuss in smaller groups: could these ideas become mini research projects, or collaborative papers?
+
+   - Julieta: would it be productive to have someone presenting each meeting? 
+   - Joshua: as an invitation to collaborate, on a paper or other product
+   - Mayra: open hardware is not necessarily in my line of current research. Uh, but I have a few ideas that I like to explore either now or in the future. And by that end for that, I will need someone with, you know, with a good understanding as to how the field works and where we can access data.
+
+#### 4. General recap
+
+We will have someone presenting their work for 15' each meeting, we will afterwards discuss. The goal of the presentation is whatever the presenter needs: engage contributors, discuss very preliminar work, write a paper, present something to a conference, etc.
+
+
+#### 5. Action items
+- Joshua will present an idea/paper for discussion next week
+- Thinking of potential discussions for 4s conference panel
+
+
 ## 2nd Meeting - 13 Jan 2022
 ### Access details
 - Date: Jan 13, 2022
