@@ -1,5 +1,74 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
 
+## 4th meeting - 10 March 2022
+### Access details
+- Date: March 10, 2022
+- Time: 4pm UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Participants
+- Mayra Morales
+- Julieta Arancio
+- Joshua Pearce
+- Jeremy Wright
+- Haris 
+- Veronica Uribe
+- Pen 
+- Daniel Wessolek
+- Moritz
+- Tarunima
+- Paul Jerchel
+- Sven Klinkow
+- Emilio Velis 
+- Urs Gaudenz
+ 
+### Agenda 
+
+#### 1. Presentation: J. Pearce
+
+- Link to preprint: https://zenodo.org/record/6345120
+
+#### 2. Discussion 
+
+- Mayra: how to do this at Uni of Manchester? Which kind of data so I can ask for it? Another question; if unis are not making $ through patenting, are they doing it for legitimacy/reward?
+- Daniel: what would the transfer offices focus on instead? MIT media lab model?
+- Haris: patent, what is it? the cultural model around patenting, where does it come from?
+- Veronica: are there strategies for delaying the period of delay? E.g insulin case
+- Emilio: we need to also pay aattention to how hardware patent are written not only the operationla aspect but the conceptual aspect of it.
+- Pen-Yuan Hsing (he/they):How willing are universities to provide the kinds of data in this paper? Is it straightforward to get this data? 
+- Pen: I think the insulin story, and other similar stories, are in the book Against Intellectual Monopoly by Michele Boldrin and David K Levine: 
+http://www.dklevine.com/general/intellectual/againstfinal.htm
+I like the book's tagline: "Monopoly corrupts, absolute monopoly corrupts absolutely." 
+    
+- Julieta: Creating alternative metrics for universities  
+    - Create training for tech transfer office people 
+    - Are companies curious/interested in Open Hardware? How to assess demand?
+
+- Haris: Scenarios on e.g. vaccine data (Covid-19) 
+    - Paul added: Taxes and license revenues of BioNTech/Pfizer made up 20% Germany's GDP growth in 2021. ([en](https://www.reuters.com/article/us-germany-economy-biontech-idUSKBN2FB15A), [de](https://www.tagesschau.de/wirtschaft/konjunktur/bip-biontech-effekt-imk-ifw-101.html))
+
+- Pearce, on which data is needed: faculty and staff salaries, how much university spends in patenting
+- Tarunima: 
+    - Maybe good to double check with OFE if they are interested in research on open hardware https://openforumeurope.org/publications/
+    - Juli: I engaged a couple of months ago, they said their interest on open hw was focused on the chip shortage, could be good to ping them again
+
+#### 3. Group news 
+
+- Job post: https://www.unibg.it/bandi/bando-relativo-selezione-pubblica-titoli-e-colloquio-conferimento-n-9-assegni-experienced. 
+
+- Panel at 4S Mexico, on open hardware, CfP OPEN: https://www.4sonline.org/88-open-hardware-perspectives-on-open-science-beyond-access-to-data-and-publications/
+
+- Tarunima: GitHub launching a project on metrics, contributions open: https://socialimpact.github.com/insights/standardized-github-metrics-project-launch/
+
+#### 4. Next meetings
+- April: 14 April, 4pm UTC
+    - Julieta on credibility strategies of academic OSH
+
+- May: 12 May, 4pm UTC 
+    - Pen, Ideas about enhancing adoption of a specific piece of hw for ecologists
+
 ## 3rd Meeting - 10 Feb 2022
 ### Access details
 - Date: Feb 10, 2022
