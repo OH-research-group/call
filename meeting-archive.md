@@ -1,5 +1,167 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
 
+## 9th meeting - 8 September 2022
+### Access details
+- Date: September 8, 2022
+- Time: 15:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Participants
+
+- Julieta
+- Jeremy
+- Moritz
+- Haris
+- Tarunima
+- Robert Mies
+
+### Agenda 
+
+#### 1. Future format / collaborations
+
+- We discussed future directions of the group, how to reflect the broad interests of group members?
+- Discussed how to better communicate what open hardware is and its agenda to a broader public 
+- Robert Mies introduced the work of the Open Next project
+- Recognized the main group interest in the economics of open hardware (business models, sustainability)
+
+#### To do's
+
+- Julieta will send a form to the list so we can register the multiple perspectives converging in open hardware
+- Robert Mies will present during the November meeting
+
+#### Next time
+
+- Follow up of Jeremy's presentation on sustainability, with Tarunima bringing up some discussion points
+
+
+## 8th meeting - 12 August 2022
+### Access details
+- Date: July 14, 2022
+- Time: 15:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Agenda 
+
+#### 1. Presentation: Jeremy Wright
+
+Topic: "Sharing OScH Revenue with Researchers"
+
+
+#### 2. Discussion
+
+- Which are the narratives/incentives/structures that need to change to allow the "cloning is a feature" narrative
+- Can there be an [Open Collective](https://opencollective.com) model for open source hardware?
+- Practitioners = Users?
+
+#### 3. Group news/Next meetings 
+
+Which format do we take moving forward?
+
+Options    
+a) Invite a guest speaker + round table
+b) Propose a topic + round table
+c) Merge with GOSH community meetings
+
+## 7th meeting - 14 July 2022
+### Access details
+- Date: July 14, 2022
+- Time: 15:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+#### 1. Presentation: Haris Shekeris
+
+Topic: "Open Science and Democracy: Option or Imperative"
+
+## 6th meeting - 9 June 2022
+
+### Access details
+
+- Date: June 9, 2022
+- Time: 15:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Agenda 
+
+#### 1. Presentation: Pen-Yuan Hsing
+
+Topic: "Augmenting camera traps with open source depth-sensing tech to transform wildlife monitoring for conservation"
+
+#### 2. Discussion
+
+Resources: 
+
+- https://conservationxlabs.com/
+- https://hardware.prototypefund.de/en/about-2/ (german partner needed)
+- https://jogl.io/
+- https://conservationxlabs.com/
+- https://dmf-lab.co.uk/
+
+Instead of a electronics-based solution, Joshua suggested also trying adding "binoculars" in front of the camera lens to give it stereo vision. Essentially the camera lens would "see" two side-by-side images, which you can then post-process.
+
+There are even clip-on stereo lenses for phones like these: 
+
+* https://www.amazon.ca/Artshu-Smartphone-Stereoscopic-Camera-Fisheye/dp/B07JZJBYVF
+* https://www.amazon.com/3D-Lens-Canon-Digital-Camera/dp/B003V1NS9A
+* Record 3D VR videos with Clip-on Lens on any phone!: https://www.youtube.com/watch?v=Qd86wyrfUpQ
+* REVIEW: Remon 3D VR Camera Lens for Smartphones?!: https://www.youtube.com/watch?v=rxrC_Wrtmb8
+
+And lenses can now be 3D-printed with great precision: 
+
+- Resource: https://formlabs.com/blog/creating-camera-lenses-with-stereolithography/
+- https://www.diyphotography.net/3d-printing-lenses-is-now-a-thing-and-you-can-make-them-yourself/
+
+GOSH forum threads: 
+
+* https://forum.openhardware.science/t/depth-sensing-technologies-for-camera-traps/3236?u=hpy
+* https://forum.openhardware.science/t/new-time-of-flight-tof-camera-for-accurate-3d-depth-measurement/3870?u=hpy
+
+Wildlabs thread: 
+
+* https://www.wildlabs.net/comment/7771
+
+After the stereo images are captured, OpenCV can be used to process them into depth maps, e.g.: https://forum.opencv.org
+https://learnopencv.com/making-a-low-cost-stereo-camera-using-opencv/
+
+#### 3. Group news 
+
+Next month: Haris
+
+## 5th meeting - 14 April 2022
+### Access details
+- Date: April 14, 2022
+- Time: 15:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Participants
+
+* Julieta
+* Haris
+* Jeremy Wright
+* Moritz
+* Sergio
+* Veronica Uribe-del-Aguila
+* Fellow Jitser
+* Daniel Wessolek
+
+### Agenda 
+
+#### 1. Presentation: J. Arancio
+
+Topic: Democratisation & open science hardware
+
+* Gathering for Open Science 2022: https://gathering2022.openhardware.science
+    * https://twitter.com/GOSHCommunity/status/1508899549846589441
+
 ## 4th meeting - 10 March 2022
 ### Access details
 - Date: March 10, 2022
