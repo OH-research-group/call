@@ -26,15 +26,43 @@
 - Robert Mies introduced the work of the Open Next project
 - Recognized the main group interest in the economics of open hardware (business models, sustainability)
 
+#### 2. General notes
+- Jeremy asked Julieta what the goals are for these meetings
+    - Julieta mentioned a willingness to go wherever the group wanted to, but outlined some thoughts
+    - Jeremy is interested in the economic aspect of open hardware, but is interested in all the other aspects as well
+
+- Julieta and Moritz talked about the difference between openmake.de and OpenNEXT
+    - Julieta asked about Robert from OpenMake/OpenNEXT
+    - Moritz and Robert are colleagues and Moritz was able to ask Robert to join the call
+
+- Robert asked Jeremy about his presentation last month, and Jeremy gave a brief synopsis
+    - Jeremy linked to a re-recording of his presentation and some discussion that happened on the open hardware research group mailing list
+    - Robert mentioned CRediT, which may be related, and is a way to ascribe roles to research contributors - https://credit.niso.org/
+
+- There was discussion about wanting to connect more people who are working separately on building a viable ecosystem around open hardware
+- There was discussion about how many people (like those in technology transfer offices), do not even know what open hardware is or do not really understand it.
+    - Open hardware does not seem main stream enough now, and there are not enough highly visible examples at scale
+    - Tarunima posted a link to https://inc42.com/buzz/okinawa-autotech-looks-to-adopt-niti-aayogs-open-bms-solution-for-evs/
+        - Tarunima summarizing that article - It was decided that battery management systems were too important not to be open source
+
+- Moritz mentioned that there is an Open Science Working Group at Freie Universitat in Berlin, and some of the members are also interested in hardware https://www.fu-berlin.de/sites/open-science/index.html
+- Tarunima is working with companies like GitHub on issues of open technology
+    - Tarunima posted a link to an EU report on the impacts of open source software and open hardware on the EU economy https://op.europa.eu/en/publication-detail/-/publication/29effe73-2c2c-11ec-bd8e-01aa75ed71a1/language-en
+
+- Robert talked about an OpenNEXT workshop happening in Grenoble on October 22nd. The topic is the sustainability impacts of open hardware
+    - https://open-design2.sciencesconf.org/
+
+- Haris is interested in joining in on the topic of sustainability, but will be unavailable for at least the next few months
+
 #### To do's
 
 - Julieta will send a form to the list so we can register the multiple perspectives converging in open hardware
 - Robert Mies will present during the November meeting
 
-#### Next time
+#### Next meeting
 
-- Follow up of Jeremy's presentation on sustainability, with Tarunima bringing up some discussion points
-
+- October: Presentation from Veronica on open hardware research on supply chains
+- November: Either Robert Mies presentation or Follow up of Jeremy's presentation on sustainability, with Tarunima bringing up some discussion points
 
 ## 8th meeting - 12 August 2022
 ### Access details
