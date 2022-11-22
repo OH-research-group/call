@@ -1,4 +1,67 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
+## 11th meeting - 10 November 2022
+
+### Access details
+- Date: November 10, 2022
+- Time: 16:00 UK time (UTC+0)
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Participants
+
+- Mayra Morales Tirado
+- Jeremy Wright
+- Julieta
+- Joshua
+- Anna
+- Pen
+
+### Discussion: Ideas on Open Hardware Revenue Sharing 
+
+Link to text: https://7bindustries.com/blog/revenue_sharing_1.html
+
+- *Summary from Jeremy:* Jeremy gave a brief summary of the blog post above, focusing on the feedback loop between the developer and the practitioner, and the methods of revenue sharing between the two. Anna asked about how distributed manufacturing fits into this system, and that is a definite challenge as the model in the blog post assumes there is one manufacturer (who is most likely the developer) and that there are clean lines between developer-manufacturer and practitioner. Of course, this is not reflective of real life where the lines are more blurred, especially when introducing distributed manufacturing into the system. There were some questions/thoughts on policy, and government's role in this process. It seems like a challenging issue because while governments are the most likely to fund projects that are beneficial even with no clear ROI, they (for example the UN, although not a "government" per-se) are reluctant to get into a retail business. The discussion then turned to whether or not a cooperative (as mentioned by Paul in the questions) would solve any of these problems. Several ideas were put forth, and I think a model that was brainstormed was one in which a cooperative acts as the central hub (or "umbrella"). The co-op would have an online store-front that developers and practitioners could contribute products/effort to, and then customers would buy from that store front, picking the manufacturer that was in their region. This is assuming that the co-op has relationships in that area, which would need to be a focus, along with marketing. A crowd-sourced rating system could be employed so that each time a customer buys from a specific manufacturer, they can rate them on things like build quality and customer service. An unrated manufacturer could be used on a buyer-beware basis, but there was talk of a sort of certification for manufacturers, so maybe even an unrated manufacturer could have a badge saying they had been through training and were certified (or something of that sort). The need for high quality open hardware designs were brought up, so maybe a similar rating system could be implemented for designers. In any case, the manufacturer would contribute a portion of their sales back to the co-op due to the referral, which would then be split between the co-op (for operations), the developer, and any practitioners who were involved in the process. Joshua mentioned that it would be great to have this be a career path for people, with a steady income and maybe even things like benefits (i.e. insurance).
+
+### ⬇️ ⬇️ ⬇️ Leave your questions/comments here
+- *Paul:* Cooperatives of self-employed like "Smart eG" (Germany) help those to pool resources for taxes, 	administrative expenses etc., "platform cooperativism" is considered a key factor to organize and finance basic services for those, whose work is for a "greater good" - and funds like Zebras Unite are dedicated to support cooperative missions like these. Therefore:
+    - Do you see any overlap to your proposal?
+    - Would founding a Open Hardware cooperative for individual researcher, activists and makers as well as companies in the field suitable give such revenue sharing an organizing body?
+    - *Jeremy:* I am really interested in discussing how my post ties into this topic of cooperatives. I think it could be a great fit, and within the last year fround out about Mondragon Corporation, and am interested in reading more about that to see how a cooperative at scale might work.
+- *Jeremy:* What would it look like for researchers to be independent of universities and corporations? Is it even possible in the current legal and social framework? The incentives seem to be organized to discourage this, but I'm not an academic or researcher and don't know. What if a cooperative did allow researchers to essentially be self-funding, and to do the research they wanted to?
+- *Jeremy:* Do researchers even care about having more independent funding?
+- *Jeremy:* Is there a model of organization and revenue sharing that will work across regions, or is it impossible to create a one-size-fits-all system?
+- *Jeremy:* In general, the revenue sharing equation that I define in the post is full of educated guesses. Any discussion and feedback on that is welcome.
+- *Anna:* - how would this work with a structure where the manufacturer is independent of the designer? (
+- *Pen*: BTW the most relevant discussion at the recent GOSH Gathering is on Private Investment and Incubators" (search for that title) here: https://pad.ucw.sh/mypads/index.html?/mypads/group/gosh-2022-ln7xc8j/pad/view/day-3-o5exc5d
+    - Unfortunately the notes are pretty bare, might need to contact the listed participants
+
+
+
+## 10th meeting - 13 October 2022
+
+### Access details
+- Date: October 13, 2022
+- Time: 16:00 UTC
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+- [Agenda (these notes)](https://hackmd.io/@oh-researchers-group/SkAIqgKut/edit)
+- [Previous meeting notes](https://oh-research-group.github.io/meeting-archive.html)
+
+### Participants
+
+- Veronica Uribe del Aguila
+- Julieta
+- Mayra
+- Moritz
+- Anna Sera Lowe
+- Dr Pearce
+- Jeremy Wright
+- Daniel Wessolek
+
+Presentation Title: 
+### Unpacking Open Hardware Economies 
+
+Link to presentation: https://docs.google.com/presentation/d/1rGwWrYnDEM38KjzJ17WIUBxmCHzwD5yWDzx3OjyOQSs/edit#slide=id.p
 
 ## 9th meeting - 8 September 2022
 ### Access details
