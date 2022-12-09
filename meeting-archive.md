@@ -1,4 +1,70 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg/badge)](https://hackmd.io/nPX8KdGKTea3O_8jWASQKg)
+
+## 12th meeting - 08 December
+- Date: December 08, 2022
+- Time: 16:00 UK time (UTC+0)
+- Link to join: [https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb](https://meet.jit.si/moderated/0e8304b39bcc1af427c75d81aedc0bebcd62989468da60c7159b0021248722fb)
+
+Tarunima Prabhakar will be presenting her work, following up on our recent discussions: "What the economics of IT tells us about open hardware".
+
+### Participants
+
+* Tarunima
+* Julieta
+* Jeremy
+* Pen
+* Salman
+* Moe
+* Moritz
+* Paul (neither sound nor video in Jitsi)
+* Daniel
+* Anna
+
+### Group news
+
+- Yesterday we had a [panel](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999694&PHPSESSID=um4hipqnt7fjm2ubkgbsoj3o3m) on open hardware at 4s
+- Daniel: https://diversityhw.org/
+- Moe working on medical certification of the open MRI
+    - Anna interested in case study of this process
+
+### Discussion: What the economics of IT tells us about open hardware
+[Link to presentation](https://docs.google.com/presentation/d/10nCoxqDOWiY4us3jMR-PDxfM6C4nq1r0VzJNbXLVOvA/edit#slide=id.p)
+
+* Presentation is influenced by book "The Success of Open Source" by Steven Weber
+* Information doesn't want to be open or closed, it is more about how we handle and use it - it matters where you start
+* Regulatory and business structure has an important influence
+* The question in this presentation is how are open software and open hardware similar, and how can that inform our ways of thinking about making open hardware sustainable
+* With software there are "runnaway economies of scale"
+* The cost of sharing the blueprint is negligible, but reproduction is not
+* Moe - Marginal cost does reduce over time because you have a growing group of suppliers to obtain the hardware from. This may vary based on the hardware project
+* Anna - Does not thing the marginal cost tends to zero, but can be reduced because of the physical cost of a unit. Even after producing 100,000 units, there is still a unit cost. Development cost is spread over the number of units. The economics of open hardware are not all that different from closed hardware. However it is funding, there is a cost of development.
+* Julieta - Are we thinking open hardware would replace the current model, or are we thinking of distributed manufacturing where that model would not apply? Open hardware has local realities that influence whether it meets its promise.
+* Daniel - Not sure if all open hardware products should be scaled the maximum extent. Maybe they meet a specific, smaller need. Is it possible to channel all the effort and knowledge so that everyone does not have to do it all themselves.
+* Moritz - The long term goal of OSHW should be to replace all closed hardware. Should reduce single use, encorage reuse, repair, etc and help people use products for a longer period of time. Make enough products open source that people can repair their primary products.
+* Anna - "Economies of scope" makes it cheaper by doing it in lots of different places, or lots of things in the same place. This is in contrast to "economies of scale". Documentation to enable reproduction is a significant cost. If you can spread that cost across many sites that reduces the cost.
+* Julieta - Even if the cost of documentation is spread out, still the costs exists and we are not considering it right now. It should be included somewhere as a cost of openness.
+* Tarunima - Economies of scale makes open source software easier to do.
+* Anna - It makes it easier to do open hardware because people don't expect to be given a physical product for free. With software you have just copied a file, so why can't you have it for free?
+* Network Effects - the value of a service increases with the number of users. Should open hardware chase network effects? What forms of network effects should we or should we not aspire to?
+* Anna - There are definitely network effects that we should pursue in the field of distributed manufacturing. The interoperability of parts (modular products) can enable a product to spread far (e.g. AK47, AR15 - Are there civilian examples?). It makes it easier for someone local to start to make those replacement parts.
+* Julieta - Critical designs that allow others to be built on top should be pursued.
+* Haris - About interoperability and spreading the production of parts - it is important for political reasons as well. Concentration of providers causes problems. On balance, it would be good to have many people producing the same product.
+* Transaction cost - There is a cost to any transaction in the market (market research, driving a bargain, etc). Not accrued to any one individual. When the transaction costs increase when a third-party like a company has to get involved so that it's not individuals anymore.
+* Anna - If someone walks to a market to buy a product, they accrue costs on an individual basis.
+* Julieta - Difference between a person creating something at home is different than a company trying to create a product. Open hardware has a lot of those transactional costs. Equate transactional cost to friction.
+* Haris - Is open hardware different from the current economic model.
+* Anna - Ineroperability can be a benefit of open hardware because the effort to transfer from one proprietary system to another is a transaction cost. Interoperability could reduce the transaction cost overall.
+* Julieta - The horizon of what the open hardware is and where it should go means different things to different people.
+* Produce at scale vs produce at a local scale, and those two can sometimes conflict.
+
+### ⬇️ ⬇️ ⬇️ Leave your questions/comments here
+
+* (Daniel) Can we collect the terms and aspects of OSH, digital/distributed fabrication, peer-production etc. to identify conflicts of interest and reinforcements?
+    * (Paul) Could be done with GraphCommons.com (see [example on the OSH landscape](https://graphcommons.com/graphs/c6e6bfee-d3d9-4371-8eb8-0734513e97e9), sadly proprietary)
+    * (Julieta) A good way to do this is through a futures/visions exercise. We have done this with the latin american GOSH, and it helps mapping a) visions b) strategies to get there c) conflicts. I can discuss this next time if ppl are interested.
+* (Paul) Can we integrate Andrea Vetter's principles for post-growth technology design (attachent/local fit, accessibility, adaptability, bio-interaction, appropriateness - see [Convivial Technology](https://www.transcript-verlag.de/978-3-8376-5354-0/konviviale-technik/?c=311000016) 2023) to prevent OSH corruption?
+
+
 ## 11th meeting - 10 November 2022
 
 ### Access details
